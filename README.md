@@ -1,12 +1,18 @@
-# Adding multiple files of a certain type (all html files for example) to the staging area
+# Git Branches
 
-# Adding all files in directory (including hidden) to staging area
+- Listing all branches
 
-# Removing files from staging area
+- Adding a branch
 
-# Ignoring files
+- Changing branches
+
+- Merging a branch
+
+- Removing a branch
 
 
-
+             /----0----0---0
+            /             /    
+0----------0------0----0--0
 
 
